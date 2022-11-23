@@ -1,0 +1,1 @@
+﻿Jeu exemple en procédurale à transformer en fonctionnel.

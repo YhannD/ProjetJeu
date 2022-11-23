@@ -1,0 +1,38 @@
+*{
+    border: 1px solid red;
+}
+
+.eau{/*On charge l'image du background*/
+    background: url("../img/fishs.jpg") no-repeat center;
+    background-size: cover;
+}
+.player1Head{/*On charge l'image du perso1*/
+    background: url("../img/fishman1-head.png") no-repeat center;
+    background-size: contain;
+    /*opacity: 0;*/
+}
+.player1Body{/*On charge l'image du perso1*/
+    background: url("../img/fishman1-body.png") no-repeat center;
+    background-size: contain;
+    /*opacity: 0;*/
+}
+.player1Weapon{/*On charge l'image du perso2*/
+    background: url("../img/fishman1-weapon.png") no-repeat;
+    background-size: contain;
+    /*opacity: 0;*/
+}
+.player2Head{/*On charge l'image du perso2*/
+    background: url("../img/fishman2-head.png") no-repeat;
+    background-size: contain;
+    /*opacity: 0;*/
+}
+.player2Body{/*On charge l'image du perso2*/
+    background: url("../img/fishman2-body.png") no-repeat;
+    background-size: contain;
+    /*opacity: 0;*/
+}
+.player2Weapon{/*On charge l'image du perso2*/
+    background: url("../img/fishman2-weapon.png") no-repeat;
+    background-size: contain;
+    /*opacity: 0;*/
+}
